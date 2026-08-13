@@ -85,3 +85,19 @@ Open Command Prompt or terminal and run:
 
 ```bash
 pip install mysql-connector-python
+
+```
+
+## Demo
+
+### Main Menu
+
+![Main Menu](images/main-menu.png)
+
+### Ticket Management
+
+![Ticket Management](images/ticket-management.png)
+
+### Support Reports
+
+![Support Reports](images/support-reports.png)
